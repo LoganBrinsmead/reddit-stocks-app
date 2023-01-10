@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+}
+
+#root, html {
+    background-color: #141414;
+}
+
+.about {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1, h2 {
+    background-color: #141414;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    color: #141414;
+}
